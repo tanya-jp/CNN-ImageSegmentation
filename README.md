@@ -1,4 +1,4 @@
-# CNN-Neural-Network
+# CNN-ImageSegmentation
 This project contains two parts and each of them is a `CNN` implemented with `pytorch`.
 
 ## First Part
