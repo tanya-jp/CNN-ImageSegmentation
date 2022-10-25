@@ -15,4 +15,4 @@ Since data has a key role in training and testing a `neural network`, a good dat
 ![image](https://user-images.githubusercontent.com/72709191/195537977-5a81fa9d-dabe-46f9-a8e8-0942bddf7c9f.png)
 
 ### Neural Network
-For image segmentation `U-Net` is used, based on [Convolutional Networks for BiomedicalImage Segmentation](https://arxiv.org/pdf/1505.04597.pdf). The netwoork first uses `convolutional layers` and `up-sampling` to extract the properties of images, which are related to the image context. Then, by putting extracted properties and feature map from each step together, local information and context information get combined.
+For image segmentation `U-Net` is used, based on [Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf). The netwoork first uses `convolutional layers` and `up-sampling` to extract the properties of images, which are related to the image context. Then, by putting extracted properties and feature map from each step together, local information and context information get combined.
